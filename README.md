@@ -13,3 +13,6 @@ You need to have a session cookie to use this. You can get it by logging in, pre
 
 4. After it stops you can see the photo in your working directory.<br>
 ![s4](https://github.com/ujjwal96/VIT-photo-downloader/blob/master/Screenshots/s4.JPG)
+
+##NOTE
+When using dumper make sure you give space between numbers and `-`
